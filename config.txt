@@ -1,0 +1,19 @@
+======== Ip Config ========
+=== Interface: lo ===
+  IP Address: 127.0.0.1
+  Netmask: 255.0.0.0
+  Broadcast IP: None
+=== Interface: lo ===
+=== Interface: lo ===
+  MAC Address: 00:00:00:00:00:00
+  Netmask: None
+  Broadcast MAC: None
+=== Interface: enp0s3 ===
+  IP Address: 10.0.2.15
+  Netmask: 255.255.255.0
+  Broadcast IP: 10.0.2.255
+=== Interface: enp0s3 ===
+=== Interface: enp0s3 ===
+  MAC Address: 08:00:27:d0:8c:16
+  Netmask: None
+  Broadcast MAC: ff:ff:ff:ff:ff:ff
